@@ -1,0 +1,23 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.d1 {
+    text-align: center;
+}
+
+.d2 {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.mainimg {
+    height: 40vh;
+}
+
+.secondimgs {
+    width: 200px;
+    height: 20vh;
+}
